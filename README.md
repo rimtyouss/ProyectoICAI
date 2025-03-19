@@ -13,3 +13,5 @@ Nivel 2 : Segundo. Tienes que contestar a todas las preguntas. Se te suman 6 cre
 
 Si suspendes, repites, es decir, se suma un año a tu año de fin de carrera. Al aprobar todas, te puedes graduar!
 Entras tu nombre y apellido, y puedes descargarte el diploma. Aparecera la imagen en la carpeta del Juego.
+
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/4c870c7e-785d-4d07-8789-95f0ceaf76a5" />
