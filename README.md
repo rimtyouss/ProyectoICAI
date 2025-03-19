@@ -1,5 +1,5 @@
 # ProyectoICAI
-Juego para la asignatura de Programacion Orientada a Objetos 
+Juego con interfaz gráfica para la asignatura de Programacion Orientada a Objetos, escrito en Java.
 
 
 Nivel 1 : Primero. Tienes que contestar a todas las preguntas. Se te suman 6 creditos al aprobar la asignatura.
